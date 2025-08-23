@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pramod Wickramanayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
+<p align="center">
+
+  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodwickramanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pramodwickramanayaka" /> </p>
 
 - 💬 Ask me about **python**
