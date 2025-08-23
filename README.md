@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pramod Wickramanayaka</h1>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> I'm Pramod Wickramanayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
-<p align="center">
-
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
-</p>
+<p align="center"><img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodwickramanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pramodwickramanayaka" /> </p>
 
@@ -21,8 +19,9 @@
 <a href="https://www.youtube.com/c/pramodh gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pramodh gaming" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/avB877Qy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/avB877Qy" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
