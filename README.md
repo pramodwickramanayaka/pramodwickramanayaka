@@ -4,7 +4,7 @@
 <p align="center"><img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodwickramanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pramodwickramanayaka" /> </p>
+
 
 - 💬 Ask me about **python**
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Pramod**
 
-&nbsp;&nbsp;&nbsp;<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/aruna pramod wickramanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aruna pramod wickramanayaka" height="30" width="40" /></a>
 <a href="https://instagram.com/pramodwickramanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodwickramanayaka" height="30" width="40" /></a>
