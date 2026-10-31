@@ -1,5 +1,4 @@
-<div align="center">
- 
+<div align="center"> 
 # Aruna Pramod
 
 **Pramod Wickramanayaka** · Student at SLIATE · Sri Lanka 🇱🇰
