@@ -1,11 +1,9 @@
 
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0E75B6,100:00D9FF&height=200&section=header&text=ARUNA%20PRAMOD&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0E75B6,100:00D9FF&height=200&section=header&text=ARUNA%20PRAMOD&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=60"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;Creative+Video+Editor+%F0%9F%8E%AC;AI+%26+Technology+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;Creative+Video+Editor+%F0%9F%8E%AC;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%E2%9C%A8"/>
 
 <br/>
 
@@ -16,7 +14,7 @@
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-white?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 <a href="mailto:uhgapwickramanayaka@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-ME-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -67,7 +65,7 @@ Building desktop applications, automation tools, and useful Python projects.
 
 ### 🌐 Web Development
 
-Creating modern, responsive websites using HTML, CSS, JavaScript, PHP and databases.
+Creating modern, responsive websites using clean and maintainable code.
 
 </td>
 </tr>
@@ -76,7 +74,7 @@ Creating modern, responsive websites using HTML, CSS, JavaScript, PHP and databa
 
 ### 🎨 Creative Design
 
-Exploring UI/UX, modern interfaces, and creative digital experiences.
+Exploring UI/UX, modern interfaces, and digital experiences.
 
 </td>
 <td width="50%">
@@ -97,15 +95,15 @@ Creating engaging edits with creative transitions and visual effects.
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css"/>
 
 ### Frameworks & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,mysql,mongodb"/>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,androidstudio,arduino" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,androidstudio,arduino"/>
 
 </div>
 
@@ -115,13 +113,25 @@ Creating engaging edits with creative transitions and visual effects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pramodwickramanayaka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<a href="https://github.com/pramodwickramanayaka">
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=pramodwickramanayaka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodwickramanayaka&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<div align="center">
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=pramodwickramanayaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  width="48%"
+  alt="Top Programming Languages"
+/>
+
+</div>
+
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=pramodwickramanayaka&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=pramodwickramanayaka&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
